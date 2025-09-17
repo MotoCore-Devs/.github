@@ -1,6 +1,6 @@
 ## Welcome to Motorola-SM6375-Devs organization 
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Motorola Organization" src="https://img.shields.io/badge/Motorola%20Organization-purple?style=for-the-badge&logo=motorola&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp; <img alt="Motorola Organization" src="https://img.shields.io/badge/Motorola%20Organization-purple?style=for-the-badge&logo=motorola&logoColor=white"> &nbsp; <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 This organization contains device specific & common sources for various SM6375 based Motorola devices.
 
