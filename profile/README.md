@@ -1,4 +1,4 @@
-## Welcome to Motorola-SM6375-Devs organization 
+## Welcome to MotoCore Devs | By SM6375 Motorola Devs 
 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp; <img alt="Motorola Organization" src="https://img.shields.io/badge/Motorola%20Organization-purple?style=for-the-badge&logo=motorola&logoColor=white"> &nbsp; <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
