@@ -4,7 +4,7 @@
 
 This organization contains device specific & common sources for various SM6375 based Motorola devices.
 
-Founded and maintained by [@victor_legendary_02](https://github.com/victorlima-legendary), feel free to contribute.
+Founded and maintained by [@victor_legendary](https://github.com/victorlima-legendary), feel free to contribute.
 
 <!--Founded by [@AnandSuresh02](https://github.com/AnandSuresh02), and managed and maintained by [@victor_legendary_02](https://github.com/victorlima-legendary), feel free to contribute. -->
 
